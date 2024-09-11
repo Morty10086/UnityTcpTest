@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: c1779d9085c88cd40ac14126c2d9a1e7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 80
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 2292
+        width: 1649
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3322c444fd85f24c8c194b07db9a0fa
+      internalID: 12029907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1964
+        width: 1463
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db07739cb42b9f46912ac2ea8b9cbcc
+      internalID: -251748711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 1580
+        width: 1521
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50165c036b244e545b0e2aad69771a9f
+      internalID: -1828943440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1199
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 451462fd5644caa47882d6a8fd711f0c
+      internalID: 436960893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 875
+        width: 67
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d745e9a732ce14598e10490169193f
+      internalID: -977160539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 602
+        width: 97
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7ab56376523a4ead0531b6edfd31f
+      internalID: -897975701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 586
+        width: 903
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ac0afc1f4d6441be42bb7f455b2b5
+      internalID: -593049986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 472
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59f16fcc4c3db9469a935cbac84befb
+      internalID: 683020378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_33
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 475
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9810d49152e3b7646a9f4e2b254c7ec2
+      internalID: -632808340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 475
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9959d58e5d0921d418f7e7dc8e2615d5
+      internalID: 1510909173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 472
+        width: 1426
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa366392939d7f49a230e2b6b1f4408
+      internalID: 1311240901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_51
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 223
+        width: 552
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d18e9e2600116468a1abb309ae40e6
+      internalID: 1052768349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOSSUI-Sheet_53
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 246
+        width: 29
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b1e3d4686b9014cb02198d125b1161
+      internalID: 1649279484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: bb29e5a5c1b0c394a80d2d22a4ae3d54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BOSSUI-Sheet_0: 12029907
+      BOSSUI-Sheet_1: -251748711
+      BOSSUI-Sheet_10: -479339665
+      BOSSUI-Sheet_11: -593049986
+      BOSSUI-Sheet_12: -409463970
+      BOSSUI-Sheet_13: -217535847
+      BOSSUI-Sheet_14: 1630387172
+      BOSSUI-Sheet_15: -377919354
+      BOSSUI-Sheet_16: -866313711
+      BOSSUI-Sheet_17: -1045897902
+      BOSSUI-Sheet_18: -2020170320
+      BOSSUI-Sheet_19: -1954502804
+      BOSSUI-Sheet_2: -1828943440
+      BOSSUI-Sheet_20: -144313740
+      BOSSUI-Sheet_21: -1033090439
+      BOSSUI-Sheet_22: -1636444776
+      BOSSUI-Sheet_23: -155233094
+      BOSSUI-Sheet_24: 1505848967
+      BOSSUI-Sheet_25: -490907671
+      BOSSUI-Sheet_26: 1028938740
+      BOSSUI-Sheet_27: 1547271786
+      BOSSUI-Sheet_28: 636590163
+      BOSSUI-Sheet_29: 683020378
+      BOSSUI-Sheet_3: 436960893
+      BOSSUI-Sheet_30: -1401950268
+      BOSSUI-Sheet_31: -1110966146
+      BOSSUI-Sheet_32: -120158619
+      BOSSUI-Sheet_33: -632808340
+      BOSSUI-Sheet_34: -1090951611
+      BOSSUI-Sheet_35: 301711437
+      BOSSUI-Sheet_36: -242059176
+      BOSSUI-Sheet_37: 1716896834
+      BOSSUI-Sheet_38: 935496915
+      BOSSUI-Sheet_39: -20012425
+      BOSSUI-Sheet_4: -977160539
+      BOSSUI-Sheet_40: 1218723262
+      BOSSUI-Sheet_41: -2075946537
+      BOSSUI-Sheet_42: 557150981
+      BOSSUI-Sheet_43: 1747488272
+      BOSSUI-Sheet_44: -1288267379
+      BOSSUI-Sheet_45: -583488542
+      BOSSUI-Sheet_46: -675718530
+      BOSSUI-Sheet_47: 1510909173
+      BOSSUI-Sheet_48: -619240152
+      BOSSUI-Sheet_49: -95794341
+      BOSSUI-Sheet_5: -897975701
+      BOSSUI-Sheet_50: 1311240901
+      BOSSUI-Sheet_51: 1052768349
+      BOSSUI-Sheet_52: -2144470169
+      BOSSUI-Sheet_53: 1649279484
+      BOSSUI-Sheet_54: -1625005575
+      BOSSUI-Sheet_55: 99062197
+      BOSSUI-Sheet_56: 1747874642
+      BOSSUI-Sheet_57: 1019414516
+      BOSSUI-Sheet_58: 1669522154
+      BOSSUI-Sheet_59: 466681427
+      BOSSUI-Sheet_6: -238423283
+      BOSSUI-Sheet_60: 1460545566
+      BOSSUI-Sheet_61: 610528821
+      BOSSUI-Sheet_62: 38474570
+      BOSSUI-Sheet_7: -708005950
+      BOSSUI-Sheet_8: 1744749889
+      BOSSUI-Sheet_9: 1239350011
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

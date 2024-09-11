@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 885e8c3fd568eab42bf1ec6ed4d578ff
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ST_Awake_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9bee51575cb6d45b59264cfbb63cdf
+      internalID: 1516675204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_1
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3584
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a572b8c27a6740469796ae91815134d
+      internalID: -2144676953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_2
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3584
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92e16cdd40dca64b8937f17586508a8
+      internalID: 1894343537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_3
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3584
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b0136d37c162344991fb2d9a42f465
+      internalID: 1195178957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_4
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3584
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163dc90795bb64948a57b9b1c656d3b6
+      internalID: 1473246448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_5
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3584
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fb6ad6d55fd1542b3a12e535fdd7b3
+      internalID: 1615038174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_6
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3584
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc09c8c076c4c64db7d57cdb3f4b139
+      internalID: 1724794858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_7
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 3584
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c063c66217d97864fa5649327477a7ca
+      internalID: 1613964457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52075f6b5f904ed44915b9ab629ec100
+      internalID: 2007823862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3072
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77d9368b2e4d0348ba0dd4d1c704616
+      internalID: -115555994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_10
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 3072
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59eb9986924bd14488e7c010e5e7650b
+      internalID: -1239383218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_11
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 3072
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47e5c73eb4cb2b4d8d3ddcfb19f448d
+      internalID: 1543195222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_12
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 3072
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc9a8f375fdf5b4fbabf219e10c6558
+      internalID: -1365084851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_13
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 3072
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726ab19485dd1cc48b88847d1ba72b28
+      internalID: 1728690882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_14
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 3072
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3538ec50c41704b90072aa29db4677
+      internalID: -867388524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_15
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 3072
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1159847b6d35def4f8895c448b62a4b2
+      internalID: -1396724296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b04c480b97600438ce976217eaea6b
+      internalID: -1718225754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_17
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2560
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ace82709a552d7459231d83d12d40cb
+      internalID: 1335635888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_18
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2560
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a3e388ccb1668848a73b218be1c5b5c
+      internalID: 851350135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_19
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2560
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2cdfbb58346e5a4aa7cf559a125cddb
+      internalID: -1988053973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_20
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2560
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9151c942499e8849817be126106bc73
+      internalID: -1727672174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_21
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2560
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202629af2a5196e4fbe44ab556c93a45
+      internalID: 648874334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_22
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2560
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1b4d21af64fc774ea3688aad62826fb
+      internalID: 845944855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_23
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 2560
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e67da23b44b6e649a3bf9e959c1a53b
+      internalID: 412964324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177d131362309624998eddf4886c676d
+      internalID: 1137998854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2048
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce41e19cd00448f4f8a78561857ea92e
+      internalID: 751129298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_26
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 2048
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f635728b533b3741b7c1866c015c829
+      internalID: -1727619306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_27
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 2048
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e667592f0535feb4d9a62c24fc9814dc
+      internalID: 1976341048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_28
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2048
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912ab4684bcb1b8498f89bb2760cf19a
+      internalID: 1163107139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_29
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 2048
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0bc3a717c84bb48b782d833b1f822c
+      internalID: -31480453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_30
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 2048
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1b7749bf50cb3468187f3eb2be8008
+      internalID: -1761409576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_31
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 2048
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80070b1e79c12a64fa4e4473f400a13f
+      internalID: -497428381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed30b21381b89b4b8a714c1d694ef4b
+      internalID: -1762864947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_33
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1536
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fcaa404ef4a5e44fa37d2fb56ad0cc0
+      internalID: -741301043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_34
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1536
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28f13643b9558f45a90f4288e80d4b7
+      internalID: -460890531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_35
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1536
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdecedb1cb03d904cac430406a47aab6
+      internalID: -771439510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_36
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1536
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00557aeae0f5b347966d751aec8a536
+      internalID: -987071425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_37
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1536
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05fb4f4d01db844aa785217a5c6741a
+      internalID: -1224212853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_38
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1536
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24d678a3446ed547888a3a3e8fdd254
+      internalID: -1629620875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_39
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 1536
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08895b92c516de34e8d92158dcc5f97b
+      internalID: -1496534793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e016647a3afad914082b21a037dba1de
+      internalID: 276792366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_41
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1024
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb196e6b31a1234b99e5f888ca77bb3
+      internalID: 249688046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_42
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1024
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bd284274c69d84e834cc4d7338e1ce
+      internalID: -1317319429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_43
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 1024
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a913d104dfff6964ab12c932ecaf5b6f
+      internalID: 2086562251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_44
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1024
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3c88db78641b2488d62b73e08a214e
+      internalID: -2122641941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_45
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 1024
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5488f83cc690c44bacfb7646f8a2f54
+      internalID: 1263488794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_46
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 1024
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78fd46562a20f214491d8f5ea03f12cb
+      internalID: 626969719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_47
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 1024
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa1e7162cda6a849803fc2789942c65
+      internalID: 425169228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10244993b807e974fb195bc3df01510f
+      internalID: 556603968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_49
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 512
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835bdf28c4f1a9d4bb0cde47bbbc056a
+      internalID: -592523000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_50
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 512
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a75c4d1abd7dca4cbc3058d196839f9
+      internalID: 820699450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_51
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 512
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d8f52e7c67c02499af079496a6fad4
+      internalID: -1895940630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_52
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 512
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668676eb1abeba640b8b6aa5f70e18eb
+      internalID: -1888176088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_53
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 512
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e44c41a7557e84c890c8e587f244a5
+      internalID: 1739124259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_54
+      rect:
+        serializedVersion: 2
+        x: 3300
+        y: 512
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c10cb10f323e414fba1f580866bc00e
+      internalID: 889530541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_55
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 512
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3a9e4c2efe792448bf1775077a7b24
+      internalID: -478943730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dafc4aa20ccb26e42860f97303aa2285
+      internalID: 552149563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_57
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 0
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67d4178ea50e6148b678486148546eb
+      internalID: -1727617882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_58
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74423bbc6db242c49ac09d1c7db469a9
+      internalID: 1206297239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_59
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 0
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab28d1dbb9ee24f45b9b49665c143019
+      internalID: 878124709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ST_Awake_60
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 550
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8151034fbcd815d4185ec0903584853b
+      internalID: -844814579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f97276f915b30304c8540659bfe4b120
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      ST_Awake_0: 1516675204
+      ST_Awake_1: -2144676953
+      ST_Awake_10: -1239383218
+      ST_Awake_11: 1543195222
+      ST_Awake_12: -1365084851
+      ST_Awake_13: 1728690882
+      ST_Awake_14: -867388524
+      ST_Awake_15: -1396724296
+      ST_Awake_16: -1718225754
+      ST_Awake_17: 1335635888
+      ST_Awake_18: 851350135
+      ST_Awake_19: -1988053973
+      ST_Awake_2: 1894343537
+      ST_Awake_20: -1727672174
+      ST_Awake_21: 648874334
+      ST_Awake_22: 845944855
+      ST_Awake_23: 412964324
+      ST_Awake_24: 1137998854
+      ST_Awake_25: 751129298
+      ST_Awake_26: -1727619306
+      ST_Awake_27: 1976341048
+      ST_Awake_28: 1163107139
+      ST_Awake_29: -31480453
+      ST_Awake_3: 1195178957
+      ST_Awake_30: -1761409576
+      ST_Awake_31: -497428381
+      ST_Awake_32: -1762864947
+      ST_Awake_33: -741301043
+      ST_Awake_34: -460890531
+      ST_Awake_35: -771439510
+      ST_Awake_36: -987071425
+      ST_Awake_37: -1224212853
+      ST_Awake_38: -1629620875
+      ST_Awake_39: -1496534793
+      ST_Awake_4: 1473246448
+      ST_Awake_40: 276792366
+      ST_Awake_41: 249688046
+      ST_Awake_42: -1317319429
+      ST_Awake_43: 2086562251
+      ST_Awake_44: -2122641941
+      ST_Awake_45: 1263488794
+      ST_Awake_46: 626969719
+      ST_Awake_47: 425169228
+      ST_Awake_48: 556603968
+      ST_Awake_49: -592523000
+      ST_Awake_5: 1615038174
+      ST_Awake_50: 820699450
+      ST_Awake_51: -1895940630
+      ST_Awake_52: -1888176088
+      ST_Awake_53: 1739124259
+      ST_Awake_54: 889530541
+      ST_Awake_55: -478943730
+      ST_Awake_56: 552149563
+      ST_Awake_57: -1727617882
+      ST_Awake_58: 1206297239
+      ST_Awake_59: 878124709
+      ST_Awake_6: 1724794858
+      ST_Awake_60: -844814579
+      ST_Awake_7: 1613964457
+      ST_Awake_8: 2007823862
+      ST_Awake_9: -115555994
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
